@@ -1,0 +1,19 @@
+body{
+    background-color: lightcyan;
+    text-align: left;
+      font-size: large;
+    padding: 100px;
+    border: 1px solid rgb(19, 4, 1);
+    
+}
+
+td{
+  background-color: rgba(255, 255, 255, 0.871);
+  font-size: large;
+  padding: 10px;
+  margin: 20px;
+  border: 5px;
+}
+h2{
+    color:rgb(23, 176, 9);
+}
